@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTwittur(In)</string>
+    <string name="content_description">description of an image</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="section_name">Section Name</string>
+    <string name="bio">Bio</string>
+</resources>
